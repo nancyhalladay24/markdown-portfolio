@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Smiles 
+* People being nice 
+* Cute baby animals 
+  * Calfs
+  * Lambs
+  * Foals
