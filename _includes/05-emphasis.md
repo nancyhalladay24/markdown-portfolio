@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. Studyed industrial design at loughborough university
+2. Confident in **JS** **HTML** and **CSS**
